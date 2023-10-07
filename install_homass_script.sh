@@ -1,4 +1,4 @@
-
+#!/bin/bash
 apt update
 apt upgrade -y
 apt-get install -y jq wget lsb-release net-tools curl udisks2 apparmor-utils libglib2.0-bin network-manager dbus systemd-journal-remote unzip
