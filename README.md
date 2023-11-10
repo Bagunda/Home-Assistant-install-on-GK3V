@@ -6,3 +6,4 @@
 ```wget -O - https://raw.githubusercontent.com/Bagunda/Home-Assistant-install-on-GK3V/main/install_homass_script.sh | bash - ```
 
 На Debian 12 Home Assistant не устанавливается. Пишет, что не поддерживается эта версия. Разработчики Home Assistant говорят, что это потому что Debian 12 не вышел в официальный релиз. Только не официально он существует.
+C 2023.10.01 Дебиан 12 перешла в релизную версию и сразу стала поддерживаться хомасом
